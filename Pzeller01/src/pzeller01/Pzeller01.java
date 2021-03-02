@@ -1,5 +1,5 @@
 /*
-Autor: Guillem Susial 1DAM
+Autor: Guillem Susial  1DAM
 Objetivo: GitHub
  */
 package pzeller01;
